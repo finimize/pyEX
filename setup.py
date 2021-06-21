@@ -33,7 +33,7 @@ with open(pjoin(here, "README.md"), encoding="utf-8") as f:
 
 requires = [
     "deprecation>=2.0.6",
-    "ipython>=7.2.0",
+    #"ipython>=7.2.0",
     "Pillow>=5.3.0",
     "pandas>=0.22",
     "pytz>=2019.1",
